@@ -34,11 +34,11 @@ The top 3 countries generating highest revenue are China, USA, India. A deeper a
 The number of users of e-health are rapidly increasing and we can observe steep growth of revenue in digital health fitness and wellbeing.
 The smartwatches are the top most sold wearables in digital health and we observed that apple and Fitbit smartwatches are at the top position.
 The e-health apps which are most likely to be downloaded are Samsung health and Huawei health. It is observed that the paid e-health apps are generating the highest revenue.
-Today, digital health already is a cornerstone of developed health systems all over the world. The COVID-19 pandemic has positively accelerated growth in the Digital Health market by making healthcare and self-monitoring of health conditions more accessible to public. With Digital therapeutics slowing becoming mainstream with regulatory approvals and reimbursement routes established, this market is estimated to significantly grow in the coming years.
+Today,Â digital healthÂ already is a cornerstone of developed health systems all over the world. The COVID-19 pandemic has positively accelerated growth in the Digital Health market by making healthcare and self-monitoring of health conditions more accessible to public. With Digital therapeutics slowing becoming mainstream with regulatory approvals and reimbursement routes established, this market is estimated to significantly grow in the coming years.
 
 
 Contributors
-Harika Mangu
+Siva Vasanta Harika Mangu
 
 
 Acknowledgements
