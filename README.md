@@ -9,10 +9,10 @@ As someone passionate about healthcare and data, I’ve always been curious abou
 2. To gain a deeper understanding of how digital tools are shaping patient experiences across different demographics
 3. To build interactive and insightful dashboards using Tableau that can help stakeholders make data-driven decisions in healthcare
 
-# Introduction
+## Introduction
 The Digital Health project aims to leverage technology to improve the quality, accessibility, and efficiency of healthcare services. It focuses on the development of software applications and systems that enhance healthcare delivery, promote wellness, and empower individuals to manage their health effectively.
 
-# Features
+## Features
 The Digital Health project includes the following features:
 
 1. Electronic Health Records (EHR): A secure and centralized system to store and manage patient health records electronically, enabling easy access and sharing of medical information between healthcare providers.
@@ -23,13 +23,13 @@ The Digital Health project includes the following features:
 6. Appointment Scheduling: A system that allows patients to schedule appointments with healthcare providers conveniently, reducing waiting times and optimizing resource allocation.
 7. Health Analytics: Data analysis and visualization capabilities to derive meaningful insights from aggregated health data, enabling proactive interventions and personalized healthcare recommendations
 
-# Installation
+## Installation
 The above project was done on Tableau.The installation of tableau is recommmended before you download the project.
 
-# Usage
+## Usage
 Analyze health data trends and receive insights to make informed decisions about their well-being.
 
-# Contribution
+## Contribution
 Siva vasanta harika mangu
 
 # License
