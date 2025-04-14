@@ -32,7 +32,7 @@ Analyze health data trends and receive insights to make informed decisions about
 ## Contribution
 Siva vasanta harika mangu
 
-# License
+## License
 The project is licensed and submitted to northeastern university 
 
 
